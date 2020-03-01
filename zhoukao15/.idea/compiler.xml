@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="my-wf-api" />
+        <module name="my-wf-gatway-server" />
+        <module name="my-wf-order-provider" />
+        <module name="my-wf-user-consumer-feign" />
+        <module name="my-wf-eureka-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dasfdasfa" target="1.5" />
+      <module name="my-wf-order-provider1" target="1.8" />
+      <module name="my-wf-user-consumer" target="1.8" />
+      <module name="zhoukao-eureka-server" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
